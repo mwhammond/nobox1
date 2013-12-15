@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  content: MyText
+  priority: 1
+  due: 2013-12-15 21:02:07
+  messages: MyString
+  percentage: 1
+
+two:
+  content: MyText
+  priority: 1
+  due: 2013-12-15 21:02:07
+  messages: MyString
+  percentage: 1
